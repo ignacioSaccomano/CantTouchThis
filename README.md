@@ -1,5 +1,5 @@
 # CantTouchThis
-Una manera molesta de cuidarse.
+Porque un problema persistente requiere una solución estridente.
 
 ## ¿En qué consiste?
 Este repositorio contiene los archivos necesarios para poder crear un circuito cuyo propósito es prevenir que el usuario se toque la cara y así prevenir la contracción de enfermedades infecciosas.
